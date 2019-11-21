@@ -1,9 +1,9 @@
-# My Life Cut (인생내컷)
+# My Daily Life Cut (하루내컷)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 ## Introduce
-"My Life Cut" detects human face in an image and gets back face rectangles for where in the image the face is, along with some attributes which contain machine learning-based predictions of facial features. Algorithm in application utilizes some of sentiment data and returns meaningful analysis results. 
+"My Daily Life Cut" detects human face in an image and gets back face rectangles for where in the image the face is, along with some attributes which contain machine learning-based predictions of facial features. Algorithm in application utilizes some of sentiment data and returns meaningful analysis results. 
 
 ## Getting Started
 - All python code should be reformmated by [black](https://github.com/psf/black)
