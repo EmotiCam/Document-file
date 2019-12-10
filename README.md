@@ -19,11 +19,12 @@
 
 [Frontend (Android Studio)]
 - jdk ^8.0
-
-[Frontend (React Native)]
-- React Native: 0.59.8
-- React: ^16.8.3
-- Expo: ^35.0.0
+- Android Studio 3.5.1
+- Cloudinary 1.25
+- MS Face API 1.4.3
+- Picasso 2.7
+- Gson 2.8.5
+- Retrofit 2.3
 
 ### Installing
 Expo CLI
